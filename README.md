@@ -1,4 +1,4 @@
-# mellin-barnes-representations
+# mellin-barnes-representation
 
 #### Dependencies
 - `MBsums.m`
