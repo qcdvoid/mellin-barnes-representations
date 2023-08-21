@@ -8,8 +8,8 @@
 - `MultivariateResidues.m`
 - `MBConicHulls.wl`
 
-⬇️ <https://github.com/SumitBanikGit/MBConicHulls>
+> ⬇️ <https://github.com/SumitBanikGit/MBConicHulls>
 
 - `MaTeX` is used to render LaTeX inside the notebooks. In Mathematica 11.3 and later install with `ResourceFunction["MaTeXInstall"][]`.
 
-ℹ️ <https://library.wolfram.com/infocenter/MathSource/9355/>
+> ℹ️ <https://library.wolfram.com/infocenter/MathSource/9355/>
